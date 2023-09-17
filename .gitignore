@@ -1,7 +1,7 @@
 node_modules/
-serviceAccountKey.json
+# serviceAccountKey.json
 env
 
 .env
 
-./serviceAccountKey.json
+# ./serviceAccountKey.json
